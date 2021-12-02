@@ -1,0 +1,3 @@
+/home/faheem/respositories/Mandoline/build/CMakeFiles/rebuild_cache.dir
+/home/faheem/respositories/Mandoline/build/CMakeFiles/edit_cache.dir
+/home/faheem/respositories/Mandoline/build/CMakeFiles/Mandoline.dir
